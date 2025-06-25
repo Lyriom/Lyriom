@@ -48,7 +48,6 @@
   </a>
   
    <a
-    
        </a>
   <a target="_blank" href="https://www.linkedin.com/in/josue-riera-407998238/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
