@@ -5,21 +5,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LyriomDev&label=Profile%20views&color=8caaee&style=for-the-badge" alt="LyriomDev's profile views" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/LyriomDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=LyriomDev&include_all_commits=true&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/LyriomDev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyriomDev&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 ### 🚀 Lenguajes:
@@ -59,9 +44,12 @@
 
 <div align="center" style="margin-top: 20px;">
   <a target="_blank" href="https://github.com/LyriomDev">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="GitHub">
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/josue-riera-407998238/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
   </a>
   <a target="_blank" href="mailto:lyriom.dev@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Email">
   </a>
 </div>
