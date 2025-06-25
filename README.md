@@ -22,8 +22,15 @@
 - Desarrollo frontend con React
 - Modelado de bases de datos SQL y NoSQL
 
-### 📊 Stack Completo:
+### ⚙️ Herramientas Principales:
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
+</p>
 
+### 📊 Stack Completo:
 #### Bases de Datos:
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,26 +41,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Herramientas:
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-
 ---
 
 <div align="center" style="margin: 2rem 0;">
   <h3>📫 ¡Conectemos!</h3>
   
-  <div style="display: flex; justify-content: center; gap: 2rem;">
-    <a href="https://github.com/Lyriom" target="_blank" style="text-decoration: none;">
+  <div style="display: flex; justify-content: center; gap: 2rem; align-items: center;">
+    <a href="https://github.com/Lyriom" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
       <img src="https://img.icons8.com/fluency/48/000000/github.png" width="48" height="48" alt="GitHub"/>
-      <p style="margin-top: 0.5rem; color: #333;">GitHub</p>
+      <span style="margin-top: 0.5rem; color: #333;">GitHub</span>
     </a>
-    
-    <a href="https://www.linkedin.com/in/josue-riera-407998238/" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/josue-riera-407998238/" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn"/>
-      <p style="margin-top: 0.5rem; color: #333;">LinkedIn</p>
+      <span style="margin-top: 0.5rem; color: #333;">LinkedIn</span>
     </a>
   </div>
 </div>
