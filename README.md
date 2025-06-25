@@ -43,13 +43,10 @@
 ---
 
 <div align="center" style="margin-top: 20px;">
-  <a target="_blank" href="https://github.com/LyriomDev">
+  <a target="_blank" href="https://github.com/Lyriom">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" alt="GitHub">
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/josue-riera-407998238/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" alt="LinkedIn">
-  </a>
-  <a target="_blank" href="mailto:lyriom.dev@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Email">
   </a>
 </div>
