@@ -47,13 +47,11 @@
   <h3>📫 ¡Conectemos!</h3>
   
   <div style="display: flex; justify-content: center; gap: 2rem; align-items: center;">
-    <a href="https://github.com/Lyriom" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-      <img src="https://img.icons8.com/fluency/48/000000/github.png" width="48" height="48" alt="GitHub"/>
-      <span style="margin-top: 0.5rem; color: #333;">GitHub</span>
+    <a href="https://github.com/Lyriom" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluency/48/000000/github.png" width="48" height="48" alt="GitHub" title="Mi GitHub">
     </a>
-    <a href="https://www.linkedin.com/in/josue-riera-407998238/" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center;">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn"/>
-      <span style="margin-top: 0.5rem; color: #333;">LinkedIn</span>
+    <a href="https://www.linkedin.com/in/josue-riera-407998238/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48" alt="LinkedIn" title="Mi LinkedIn">
     </a>
   </div>
 </div>
