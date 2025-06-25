@@ -17,10 +17,12 @@
 </p>
 
 ### 🛠️ Especialidades:
-- Desarrollo de APIs robustas con Spring Boot y .NET
+- Integración de APIs con Spring Boot
 - Análisis y visualización de datos con Power BI
 - Desarrollo frontend con React
 - Modelado de bases de datos SQL y NoSQL
+- Web scraping con python
+- Conocimeintos basicos de machine lerning
 
 ### ⚙️ Herramientas Principales:
 <p align="left">
