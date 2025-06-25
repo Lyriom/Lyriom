@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
 ### 📚 Librerías y Frameworks:
@@ -38,16 +37,18 @@
 - **Análisis de Datos**: Procesamiento con Pandas/NumPy, visualización con Matplotlib/Power BI
 - **Web Scraping**: Extracción de datos con BeautifulSoup y Selenium
 - **Machine Learning**: Modelos básicos con Scikit-learn
-- **Frontend**: Desarrollo con React y TypeScript
+- **Frontend**: Desarrollo con React
 - **Bases de Datos**: SQL (PostgreSQL, SQL Server) y NoSQL (MongoDB)
+- **Modelado**: Diseño de arquitecturas con IcePanel
 
 ### ⚙️ Herramientas:
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/IcePanel-2496ED?style=for-the-badge&logo=icepanel&logoColor=white" alt="IcePanel">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 ### 🗃️ Bases de Datos:
