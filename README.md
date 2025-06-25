@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 ### 📚 Librerías y Frameworks:
@@ -20,9 +25,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
   <img src="https://img.shields.io/badge/Beautiful_Soup-3D8FC6?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 </p>
 
 #### Java/JavaScript:
@@ -33,13 +36,13 @@
 </p>
 
 ### 🛠️ Especialidades:
-- **Backend**: Desarrollo con Java/Spring Boot y APIs REST
+- **Backend**: Desarrollo con Java/Spring Boot, C#/.NET y APIs REST
+- **Frontend**: Desarrollo con React, HTML5 y CSS3
 - **Análisis de Datos**: Procesamiento con Pandas/NumPy, visualización con Matplotlib/Power BI
-- **Web Scraping**: Extracción de datos con BeautifulSoup y Selenium
-- **Machine Learning**: Modelos básicos con Scikit-learn
-- **Frontend**: Desarrollo con React
+- **Web Scraping**: Extracción de datos con BeautifulSoup
 - **Bases de Datos**: SQL (PostgreSQL, SQL Server) y NoSQL (MongoDB)
 - **Modelado**: Diseño de arquitecturas con IcePanel
+- **Desarrollo Móvil**: Conocimientos básicos en Swift
 
 ### ⚙️ Herramientas:
 <p align="left">
@@ -49,6 +52,7 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/IcePanel-2496ED?style=for-the-badge&logo=icepanel&logoColor=white" alt="IcePanel">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
 </p>
 
 ### 🗃️ Bases de Datos:
