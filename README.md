@@ -1,58 +1,65 @@
-<h1 align="center">Hola me llamo Josue</h1>
-<h3 align="center">Flutter developer from Kolkata, India &#127470;&#127475</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hola, me llamo Lyriom</h1>
+<h3 align="center">Desarrollador Fullstack & Analista de Datos desde Ecuador 🇪🇨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LyriomDev&label=Profile%20views&color=8caaee&style=for-the-badge" alt="LyriomDev's profile views" />
+</p>
 
-[![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
+  <a href="https://github.com/LyriomDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=LyriomDev&include_all_commits=true&show_icons=true&theme=tokyonight" alt="LyriomDev's GitHub stats" />
+  </a>
+  <a href="https://github.com/LyriomDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyriomDev&layout=compact&theme=tokyonight&langs_count=8" alt="LyriomDev's Top Languages" />
+  </a>
+</p>
 
-- **Languages**:
-  
-  ![Dart](https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&logo=dart&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-beginnner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-  
-  <br>
-  
-- **Frameworks**:
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-beginnner-%232370ED?style=for-the-badge&logo=flutter&logoColor=white)
-  
-- **Software**:
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-cyan?style=for-the-badge&logo=popos&logoColor=black)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=github&logoColor=white)
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  
-- **Hardware**:
-  
-  ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
-  ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
-  ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
-  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-   <div align="center"  class="icons-social" style="margin-left: 10px;">
-     <a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dexprexxtion">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-     <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
-       <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+### 🚀 Lenguajes:
+![Java](https://img.shields.io/badge/Java-intermediate-red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-intermediate-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-básico-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-básico-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-básico-blue?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-básico-darkblue?style=for-the-badge&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-básico-ffac45?style=for-the-badge&logo=swift&logoColor=white)
 
-------
+### 📦 Frameworks & Librerías:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-intermedio-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-intermedio-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-intermedio-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<br>
+### 📊 Herramientas de Datos:
+![SQL Server](https://img.shields.io/badge/SQL%20Server-avanzado-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-intermedio-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-intermedio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🎨 Diseño y Modelado:
+![Figma](https://img.shields.io/badge/Figma-intermedio-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![IcePanel](https://img.shields.io/badge/IcePanel-modelado-lightblue?style=for-the-badge&logoColor=white)
+
+### ⚙️ Software y Dev Tools:
+![Visual Studio Code](https://img.shields.io/badge/VSCode-intermedio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-intermedio-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-intermedio-black?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Bash-intermedio-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+<div align="center" class="icons-social" style="margin-top: 20px;">
+  <a target="_blank" href="https://github.com/LyriomDev">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+  </a>
+  <a target="_blank" href="mailto:lyriom.dev@gmail.com">
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+  </a>
+  <!-- Agrega aquí tus otros enlaces como LinkedIn, Twitter, Portfolio, etc -->
+</div>
+
