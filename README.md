@@ -23,33 +23,39 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
 
 ### 🚀 Lenguajes:
-![Java](https://img.shields.io/badge/Java-intermediate-red?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-intermediate-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-intermedio-red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-intermedio-blue?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-básico-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-básico-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-básico-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-básico-darkblue?style=for-the-badge&logo=c&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-básico-ffac45?style=for-the-badge&logo=swift&logoColor=white)
 
-### 📦 Frameworks & Librerías:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-intermedio-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### 🧰 Frameworks & Librerías:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-intermedio-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-intermedio-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-básico-white?style=for-the-badge&logo=flask&logoColor=black)
 ![React](https://img.shields.io/badge/React-intermedio-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-básico-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 📊 Herramientas de Datos:
-![SQL Server](https://img.shields.io/badge/SQL%20Server-avanzado-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 💾 Bases de Datos:
+![SQL Server](https://img.shields.io/badge/SQL_Server-avanzado-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-intermedio-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-intermedio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-básico-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Diseño y Modelado:
+### 📊 Visualización & BI:
+![Power BI](https://img.shields.io/badge/Power_BI-intermedio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🎨 Diseño & Modelado:
 ![Figma](https://img.shields.io/badge/Figma-intermedio-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![IcePanel](https://img.shields.io/badge/IcePanel-modelado-lightblue?style=for-the-badge&logoColor=white)
 
-### ⚙️ Software y Dev Tools:
-![Visual Studio Code](https://img.shields.io/badge/VSCode-intermedio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### ⚙️ Herramientas y Software:
+![VS Code](https://img.shields.io/badge/VS_Code-intermedio-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-intermedio-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-intermedio-black?style=for-the-badge&logo=github&logoColor=white)
-![Terminal](https://img.shields.io/badge/Bash-intermedio-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-básico-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-básico-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -60,6 +66,5 @@
   <a target="_blank" href="mailto:lyriom.dev@gmail.com">
     <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
   </a>
-  <!-- Agrega aquí tus otros enlaces como LinkedIn, Twitter, Portfolio, etc -->
 </div>
 
